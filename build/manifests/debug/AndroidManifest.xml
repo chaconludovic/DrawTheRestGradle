@@ -1,0 +1,23 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.eldoraludo.drawtherest">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="15"/>
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+
+    <application android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/title_activity_draw_the_rest_with_view" android:name="com.eldoraludo.drawtherest.DrawTheRest">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_settings_activity" android:name="com.eldoraludo.drawtherest.SettingsActivity">
+        </activity>
+        <activity android:label="@string/title_activity_drawing_activity_with_view" android:name="com.eldoraludo.drawtherest.DrawingActivityWitView">
+        </activity>
+    </application>
+
+</manifest>

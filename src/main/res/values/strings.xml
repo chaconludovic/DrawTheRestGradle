@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Draw the rest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_draw_the_rest">DrawTheRest</string>
+    <string name="title_activity_drawing_activity">DrawingACtivity</string>
+    <string name="title_activity_draw_the_rest_with_view">DrawTheRest</string>
+    <string name="title_activity_drawing_activity_with_view">DrawingACtivityWithView</string>
+    <string name="title_settings_activity">Settings</string>
+
+</resources>

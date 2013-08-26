@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377537719929 108 16b314ef4507b544967bdef0624f7fd1089bb9bf C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\values-v14\styles.xml
+1377537719915 1679 1e5d046d69f1dd54f68bca3de7090f375d051233 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-ldpi\ic_launcher.png
+1377537719918 2205 3fd81592ca966fddc66917a4768a28ddcba85269 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-mdpi\ic_launcher.png
+1377537719931 70 317a2911fd49956767c2e73a1c49b232d09846d1 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\values\couleur.xml
+1377537719921 4525 bb4ba9f3f57093f5f369916992a77cd55dd75ba4 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-xhdpi\ic_launcher.png
+1377537719914 3415 2f148aaf930a1e92658142bacd6386aed1598cbc C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-hdpi\ic_launcher.png
+1377537719926 246 08ac3986f2c65f08c80ef245aa0845b20d2f330a C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\menu\activity_draw_the_rest.xml
+1377537719932 571 efcfdc25fa747a6103c2cfe754dd3c29ef01bfa7 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\values\strings.xml
+1377537719928 94 fc00e2ec2a87ffdaff76095a9d1829af89bd1c9a C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\values-v11\styles.xml
+1377537719922 560 488060a1581d569b97510f8f98ec4335a9ea55e8 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\layout\activity_draw_the_rest.xml
+1377537719917 3030 bca2289cd09bc6a3b4a4507cfd6ecc23431826c5 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-mdpi\ic_action_search.png
+1377537719920 3199 9396c0118b259887714f6ef3a240c711618ae79a C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-xhdpi\ic_action_search.png
+1377537719923 4210 b4a96ebbc6c6d072209d5ac41e43537d19cf8f97 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\layout\activity_draw_the_rest_with_view.xml
+1377537719933 89 488e39db25aa36fa2866e933d687f4fb577aa2d0 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\values\styles.xml
+1377537719913 3120 7ec7001ffd10cd29e137c2c3baab0c32e2ef76d5 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\drawable-hdpi\ic_action_search.png
+1377537719925 2412 3477f3606583fa61eef8b69c3289a2c325556382 C:\Users\ludovic\ProjetIntellij\DrawTheRestGradle\src\main\res\layout\activity_settings.xml
